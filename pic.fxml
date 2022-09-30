@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<Pane fx:id="_field" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" onKeyPressed="#handle" prefHeight="777.0" prefWidth="1154.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Final_Project.Controller_key_Event">
+   <children>
+      <Label fx:id="_plane" layoutY="178.0" prefHeight="60.0" prefWidth="276.0" text="（つ&gt; _◕）つ▄︻┻┳═一">
+         <font>
+            <Font size="23.0" />
+         </font>
+      </Label>
+      <Label fx:id="_bullet" layoutX="340.0" layoutY="194.0" prefHeight="29.0" prefWidth="63.0" text="|二Ｄ" visible="false">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <Label fx:id="_plane1" layoutX="882.0" layoutY="216.0" text="一═┻┳︻▄&lt;（&lt;&gt; _◕）">
+         <font>
+            <Font size="23.0" />
+         </font>
+      </Label>
+      <Label fx:id="_bullet1" layoutX="811.0" layoutY="217.0" prefHeight="29.0" prefWidth="36.0" text="C=8" visible="false">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+   </children>
+</Pane>

@@ -1,7 +1,7 @@
 # 2Dimension-shooting-game
 ## Enviroment
-*javaFX*
-java
+- *javaFX*
+- java
 ## Introduction
 地面及空中將隨機生成怪物，擊殺以防被怪物攻擊，同時預防怪物將身後的台灣價值拆除。擊殺怪物會掉落金錢，升級攻擊力以應付最後BOSS。
 

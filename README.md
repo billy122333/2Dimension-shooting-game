@@ -1,9 +1,11 @@
 # 2Dimension-shooting-game
-
-### Introduction
+## Enviroment
+*javaFX*
+java
+## Introduction
 地面及空中將隨機生成怪物，擊殺以防被怪物攻擊，同時預防怪物將身後的台灣價值拆除。擊殺怪物會掉落金錢，升級攻擊力以應付最後BOSS。
 
-### How to play
+## How to play
    使用鍵盤操作角色，發射子彈將敵人擊敗，避免台灣覆滅。
 	 A   向左移動				
 	 D   向右移動		
@@ -23,7 +25,7 @@
  
 2. 放過多怪物到身後。
 
-### Function
+## Function
 - 擊殺怪物可獲得金錢
 - 每一百元能升級一次攻擊力，
 - 右上角會顯示當前攻擊力，升級攻擊力以擊敗BOSS!!
